@@ -23,3 +23,5 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves expl
 ## 📫 Contact Me
 
 - **LinkedIn**: [Pierce Purcell](https://www.linkedin.com/in/pierce-purcell/)
+
+![code](https://github.com/user-attachments/assets/92522fa1-0f85-4ff9-bf0f-0e29860888a9)
