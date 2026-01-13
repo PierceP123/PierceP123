@@ -24,7 +24,7 @@ I love turning **raw data into insights**, building automation pipelines, and ex
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PierceP123&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PierceP123&theme=radical)
 
 ---
 
