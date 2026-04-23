@@ -36,14 +36,6 @@ I love turning **raw data into insights**, building automation pipelines, and ex
 
 ---
 
-## 📫 Connect With Me
-
-- **LinkedIn:** [Pierce Purcell](https://www.linkedin.com/in/pierce-purcell/)   
-
----
-
-✅ Fun fact: I’m passionate about turning **complex data into stories you can understand at a glance**. If you’re a recruiter looking for someone who loves **data, problem solving, and automation**, I’d love to connect!  
-
 
 ## 📊 GitHub Stats
 
